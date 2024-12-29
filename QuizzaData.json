@@ -804,5 +804,235 @@
     "explanation": "A proforma invoice is a preliminary document that outlines the expected costs for goods or services before the actual transaction."
   }
   ]
+  },
+   
+  {
+    "class": "Year 11",
+    "subject": "Economics",
+    "topic": "Market Structure",
+    "examType": "QUIZZA",
+    "questions": [
+ 
+ {
+    "question": "Which of the following is NOT a characteristic of a perfectly competitive market?",
+    "options": [
+      "Large number of buyers and sellers",
+      "Homogeneous products",
+      "Barriers to entry",
+      "Price takers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A perfectly competitive market does not have barriers to entry, unlike monopolies or oligopolies."
+  },
+  {
+    "question": "In a monopolistic competition market, firms have:",
+    "options": [
+      "Many competitors selling identical products",
+      "A single dominant firm with no close substitutes",
+      "A few large firms dominating the market",
+      "Many competitors selling differentiated products"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In monopolistic competition, firms sell differentiated products, unlike perfect competition where products are homogeneous."
+  },
+  {
+    "question": "In a monopolistic competition market, firms can differentiate their products through:",
+    "options": [
+      "Price only",
+      "Advertising and branding",
+      "Quantity only",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In monopolistic competition, firms differentiate their products through advertising and branding."
+  },
+  {
+    "question": "Which market structure has a downward-sloping demand curve?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Monopolistic competition has a downward-sloping demand curve due to product differentiation."
+  },
+  {
+    "question": "In which market structure do firms have some control over price due to product differentiation?",
+    "options": [
+      "Perfect competition",
+      "Monopoly",
+      "Oligopoly",
+      "Monopolistic competition"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In monopolistic competition, firms have some control over prices due to differentiated products."
+  },
+  {
+    "question": "Which market structure is characterized by mutual interdependence among firms?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Oligopoly is characterized by mutual interdependence, where firms' decisions affect one another."
+  },
+  {
+    "question": "Which market structure has the highest level of competition?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Perfect competition has the highest level of competition, as there are many firms and no barriers to entry."
+  },
+  {
+    "question": "In a duopoly, there are:",
+    "options": [
+      "Two firms with differentiated products",
+      "Many firms with homogeneous products",
+      "A few firms with differentiated products",
+      "A single dominant firm with no close substitutes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A duopoly is a market structure with exactly two firms, which may sell differentiated products."
+  },
+  {
+    "question": "Which market structure has the highest degree of market power?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A monopoly has the highest degree of market power as a single firm controls the entire market."
+  },
+  {
+    "question": "In which market structure does a single firm control the entire market?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In a monopoly, a single firm controls the entire market, with no close substitutes."
+  },
+  {
+    "question": "Which market structure exhibits interdependence among firms?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Oligopoly is characterized by interdependence among firms, where the actions of one firm affect others."
+  },
+  {
+    "question": "Which market structure has the most barriers to entry?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Monopolies have the highest barriers to entry, preventing new firms from entering the market."
+  },
+  {
+    "question": "Which market structure is characterized by a few large firms dominating the market?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An oligopoly is dominated by a few large firms, which often have significant market power."
+  },
+  {
+    "question": "In a perfectly competitive market, firms are:",
+    "options": [
+      "Price setters",
+      "Price takers",
+      "Price makers",
+      "Price influencers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In perfect competition, firms are price takers, meaning they accept the market price as given."
+  },
+  {
+    "question": "Which market structure allows firms to have some control over price?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In monopolistic competition, firms have some control over price due to product differentiation."
+  },
+  {
+    "question": "Which market structure allows firms to have significant control over price?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In a monopoly, a single firm has significant control over the price of its product."
+  },
+  {
+    "question": "Which market structure is characterized by a high degree of non-price competition?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In oligopoly, firms often engage in non-price competition, such as advertising and product differentiation."
+  },
+  {
+    "question": "In which market structure can firms earn long-run economic profits?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In a monopoly, firms can earn long-run economic profits due to the lack of competition."
+  },
+  {
+    "question": "Which market structure is the most common in real-world markets?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Monopolistic competition is the most common real-world market structure, with many firms selling differentiated products."
+  },
+  {
+    "question": "Which market structure is characterized by the absence of non-price competition?",
+    "options": [
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly",
+      "Monopoly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In perfect competition, there is no non-price competition, as all firms sell homogeneous products."
+  }
+  ]
   }
 ]
