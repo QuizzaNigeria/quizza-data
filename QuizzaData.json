@@ -171,5 +171,234 @@
         "explanation": "One of the main goals of Nigeria's economic reforms in the late 1990s and early 2000s was to diversify the economy beyond oil."
       }
     ]
+  },
+  {
+    "class": "Year 10",
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "examType": "QUIZZA",
+    "questions": [
+ 
+ {
+    "question": "What is the meaning of occupation?",
+    "options": [
+      "A) An activity that involves the production of goods and services.",
+      "B) A paid job in a specific industry.",
+      "C) A hobby that takes up free time.",
+      "D) A leisure activity pursued for relaxation."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Occupation refers to any activity that a person engages in to earn a living, involving the production of goods or services."
+  },
+  {
+    "question": "Which of the following is a classification of occupations based on skill level?",
+    "options": [
+      "A) Skilled, semi-skilled, and unskilled.",
+      "B) Manual, clerical, and professional.",
+      "C) White-collar, blue-collar, and green-collar.",
+      "D) Primary, secondary, and tertiary."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Occupations can be classified based on skill levels into skilled, semi-skilled, and unskilled categories."
+  },
+  {
+    "question": "Which of the following factors influences an individual's choice of occupation?",
+    "options": [
+      "A) Education and training.",
+      "B) Age and marital status.",
+      "C) The weather and geographical location.",
+      "D) Nationality and ethnicity."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Education and training play a crucial role in determining the type of occupation a person may pursue."
+  },
+  {
+    "question": "Which of these is an example of a service occupation?",
+    "options": [
+      "A) Teacher.",
+      "B) Farmer.",
+      "C) Miner.",
+      "D) Factory worker."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A teacher is an example of a service occupation because they provide education services."
+  },
+  {
+    "question": "What does 'service occupation' refer to?",
+    "options": [
+      "A) Occupations that involve providing services rather than producing goods.",
+      "B) Occupations in which physical labor is required.",
+      "C) Occupations that involve agricultural work.",
+      "D) Occupations that involve the extraction of natural resources."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Service occupations involve activities where services are provided to people, such as healthcare, education, and customer service."
+  },
+  {
+    "question": "Which of the following is NOT a factor that affects the choice of occupation?",
+    "options": [
+      "A) Personal interests.",
+      "B) Availability of jobs.",
+      "C) Social and economic status.",
+      "D) The color of one's clothes."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The color of one's clothes is not a factor influencing the choice of occupation, whereas personal interests, availability of jobs, and social status are."
+  },
+  {
+    "question": "Which classification of occupation is based on the type of work performed?",
+    "options": [
+      "A) Primary, secondary, and tertiary.",
+      "B) Skilled, semi-skilled, and unskilled.",
+      "C) White-collar, blue-collar, and green-collar.",
+      "D) Clerical, professional, and manual."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Occupations are classified as primary (agriculture), secondary (manufacturing), and tertiary (services) based on the type of work performed."
+  },
+  {
+    "question": "Which of the following is a key factor in determining the choice of occupation?",
+    "options": [
+      "A) Job availability.",
+      "B) Weather conditions.",
+      "C) Political affiliation.",
+      "D) Location of the country."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Job availability plays a critical role in determining the choice of occupation, as it impacts the employment options available to individuals."
+  },
+   {
+    "question": "Which of the following is an example of an unskilled occupation?",
+    "options": [
+      "A) Cleaner.",
+      "B) Doctor.",
+      "C) Engineer.",
+      "D) Teacher."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A cleaner is an example of an unskilled occupation, as it requires minimal formal education or technical skill."
+  },
+  {
+    "question": "What does 'primary occupation' refer to?",
+    "options": [
+      "A) Occupations involving natural resource extraction, such as farming or mining.",
+      "B) Occupations that involve the production of manufactured goods.",
+      "C) Occupations related to providing services like education or healthcare.",
+      "D) Occupations related to information technology and research."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Primary occupations are those that involve direct extraction of natural resources, such as agriculture and mining."
+  },
+  {
+    "question": "Which of the following factors determines an individual’s suitability for a particular occupation?",
+    "options": [
+      "A) Skills and qualifications.",
+      "B) Age and marital status.",
+      "C) Height and weight.",
+      "D) Religion and culture."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Skills and qualifications are important factors in determining an individual's suitability for a particular occupation."
+  },
+  {
+    "question": "What does 'secondary occupation' refer to?",
+    "options": [
+      "A) Occupations related to manufacturing and construction.",
+      "B) Occupations related to raw material extraction.",
+      "C) Occupations in retail and service industries.",
+      "D) Occupations related to the transport and communication sector."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Secondary occupations involve manufacturing, construction, and other industries that process raw materials into finished products."
+  },
+  {
+    "question": "Which of these is an example of a semi-skilled occupation?",
+    "options": [
+      "A) Mechanic.",
+      "B) Carpenter.",
+      "C) Doctor.",
+      "D) Farmer."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A mechanic is an example of a semi-skilled occupation, as it requires some technical training but not advanced skills."
+  },
+  {
+    "question": "Which of the following is a professional occupation?",
+    "options": [
+      "A) Lawyer.",
+      "B) Factory worker.",
+      "C) Plumber.",
+      "D) Driver."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A lawyer is considered a professional occupation, which typically requires formal education and specialized training."
+  },
+  {
+    "question": "Which of the following factors can influence a person's career choice?",
+    "options": [
+      "A) Family background and influence.",
+      "B) Preference for work hours.",
+      "C) Desire for social status.",
+      "D) All of the above."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Family background, work hours, and social status all influence career choices and decisions."
+  },
+  {
+    "question": "Which of these is an example of a tertiary occupation?",
+    "options": [
+      "A) Teacher.",
+      "B) Miner.",
+      "C) Farmer.",
+      "D) Factory worker."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A teacher works in the tertiary sector, which involves providing services such as education, healthcare, and entertainment."
+  },
+  {
+    "question": "Which of the following is a characteristic of blue-collar occupations?",
+    "options": [
+      "A) They involve manual labor and often require physical skills.",
+      "B) They are typically office-based and require desk work.",
+      "C) They require high-level academic education.",
+      "D) They are largely service-oriented and customer-facing."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blue-collar occupations involve manual labor and often require physical skills, typically in manufacturing or construction."
+  },
+  {
+    "question": "What is an example of a white-collar occupation?",
+    "options": [
+      "A) Accountant.",
+      "B) Fisherman.",
+      "C) Electrician.",
+      "D) Gardener."
+    ],
+    "correctAnswer": 0,
+    "explanation": "An accountant is an example of a white-collar occupation, typically involving office-based work that requires formal education."
+  },
+  {
+    "question": "Which of the following is a characteristic of service occupations?",
+    "options": [
+      "A) They provide intangible services rather than physical goods.",
+      "B) They involve working with raw materials.",
+      "C) They are based in manufacturing plants.",
+      "D) They require manual labor and technical skills."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Service occupations involve providing intangible services such as education, healthcare, and customer support."
+  },
+  {
+    "question": "Which of these is NOT a factor affecting occupation choice?",
+    "options": [
+      "A) The availability of leisure time.",
+      "B) Job market conditions.",
+      "C) Education and training.",
+      "D) Economic conditions."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leisure time does not significantly affect the choice of occupation, whereas job market conditions, education, and economic conditions do."
+  }
+  ]
   }
 ]
