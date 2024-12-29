@@ -6,28 +6,184 @@
     "examType": "QUIZZA",
     "questions": 
     [
-      {
-        "question": "What was a major feature of the pre-colonial era in Nigeria's commerce?",
-        "options": [
-          "Indigenous trade practices and local/regional commerce.",
-          "Export of cash crops to Europe.",
-          "Industrial manufacturing of goods.",
-          "Establishment of formal colonial infrastructure."
-        ],
-        "correctAnswer": 0,
-        "explanation": "The pre-colonial era in Nigeria was characterized by indigenous trade practices and local/regional commerce, with trade routes facilitating the exchange of goods."
-      },
-      {
-        "question": "Which trade routes facilitated commerce in pre-colonial Nigeria?",
-        "options": [
-          "Trans-Saharan and river-based trade routes.",
-          "Oceanic and aerial trade routes.",
-          "Transatlantic trade routes.",
-          "Only local market trade."
-        ],
-        "correctAnswer": 0,
-        "explanation": "Pre-colonial Nigeria's trade was facilitated by the Trans-Saharan trade routes in the north and river-based trade routes in the south."
-      }
+     {
+    "question": "What was a major feature of the pre-colonial era in Nigeria's commerce?",
+    "options": [
+      "Indigenous trade practices and local/regional commerce.",
+      "Export of cash crops to Europe.",
+      "Industrial manufacturing of goods.",
+      "Establishment of formal colonial infrastructure."
+    ],
+    "correctAnswer": 0,  // Correct answer is option A (index 0)
+    "explanation": "The pre-colonial era in Nigeria was characterized by indigenous trade practices and local/regional commerce, with trade routes facilitating the exchange of goods."
+  },
+  {
+    "question": "Which trade routes facilitated commerce in pre-colonial Nigeria?",
+    "options": [
+      "Trans-Saharan and river-based trade routes.",
+      "Oceanic and aerial trade routes.",
+      "Transatlantic trade routes.",
+      "Only local market trade."
+    ],
+    "correctAnswer": 0,  // Correct answer is option A (index 0)
+    "explanation": "Pre-colonial Nigeria's trade was facilitated by the Trans-Saharan trade routes in the north and river-based trade routes in the south."
+  },
+  {
+    "question": "What role did Nigeria play during the colonial period?",
+    "options": [
+      "Supplier of raw materials to the British Empire.",
+      "Independent producer of finished goods.",
+      "Consumer of British manufactured goods.",
+      "Provider of raw materials to European markets."
+    ],
+    "correctAnswer": 0,  // Correct answer is option A (index 0)
+    "explanation": "During the colonial period, Nigeria was a supplier of raw materials such as cocoa, palm oil, rubber, and groundnuts to the British Empire."
+  },
+  {
+    "question": "What infrastructure did the British establish in Nigeria to support commerce during the colonial period?",
+    "options": [
+      "Railways and ports.",
+      "Airports and highways.",
+      "Factories and warehouses.",
+      "Roads and power plants."
+    ],
+    "correctAnswer": 0,  // Correct answer is option A (index 0)
+    "explanation": "The British established railways and ports to facilitate the export of goods during the colonial period."
+  },
+  {
+    "question": "When did Nigeria gain independence from British colonial rule?",
+    "options": [
+      "1960.",
+      "1950.",
+      "1970.",
+      "1980."
+    ],
+    "correctAnswer": 0,  // Correct answer is option A (index 0)
+    "explanation": "Nigeria gained independence from British colonial rule in 1960."
+  },
+  {
+    "question": "What economic strategy did Nigeria adopt in the post-independence era?",
+    "options": [
+      "Import substitution industrialization.",
+      "Export-driven economy.",
+      "State-owned enterprise expansion.",
+      "Foreign direct investment attraction."
+    ],
+    "correctAnswer": 0,  // Correct answer is option A (index 0)
+    "explanation": "In the post-independence era, Nigeria adopted import substitution industrialization policies to promote domestic industries."
+  },
+  {
+    "question": "Which sector experienced rapid growth in Nigeria during the 1970s oil boom?",
+    "options": [
+      "Oil and gas sector.",
+      "Agricultural sector.",
+      "Manufacturing sector.",
+      "Tourism sector."
+    ],
+    "correctAnswer": 0,  // Correct answer is option A (index 0)
+    "explanation": "The oil boom of the 1970s transformed Nigeria’s economy, with the oil and gas sector experiencing rapid growth."
+  },
+{
+    "question": "What role does the informal sector play in Nigeria’s current economy?",
+    "options": [
+      "A) A significant role with small businesses and entrepreneurship.",
+      "B) A minimal role with large corporations dominating.",
+      "C) No role, as it is fully controlled by the formal sector.",
+      "D) Only limited to traditional markets."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The informal sector plays a significant role in Nigeria's economy, with small businesses and entrepreneurship thriving."
+  },
+  {
+    "question": "What was the primary export product of Nigeria during the colonial period?",
+    "options": [
+      "A) Cash crops like cocoa, palm oil, rubber, and groundnuts.",
+      "B) Manufactured goods.",
+      "C) Technology and machinery.",
+      "D) Textile products."
+    ],
+    "correctAnswer": 0,
+    "explanation": "During the colonial period, Nigeria primarily exported cash crops like cocoa, palm oil, rubber, and groundnuts to the British Empire."
+  },
+  {
+    "question": "Which region of Nigeria became a major source of oil in the 1970s?",
+    "options": [
+      "A) Niger Delta region.",
+      "B) Western Nigeria.",
+      "C) Northern Nigeria.",
+      "D) Eastern Nigeria."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Niger Delta region became a major source of oil in Nigeria in the 1970s."
+  },
+  {
+    "question": "What was a major consequence of Nigeria’s oil boom in the 1970s?",
+    "options": [
+      "A) Rapid infrastructure development funded by increased revenue.",
+      "B) Decline in the agricultural sector.",
+      "C) A shift to a predominantly agricultural economy.",
+      "D) Loss of international trade partnerships."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The oil boom in the 1970s funded rapid infrastructure development in Nigeria, particularly through increased government revenue."
+  },
+  {
+    "question": "What did Nigeria's government focus on during the import substitution industrialization phase?",
+    "options": [
+      "A) Promoting domestic industries to reduce dependence on imports.",
+      "B) Encouraging foreign direct investment.",
+      "C) Expanding the agricultural export sector.",
+      "D) Privatizing local businesses."
+    ],
+    "correctAnswer": 2,
+    "explanation": "During the post-independence period, Nigeria focused on import substitution industrialization to reduce dependence on imports and promote domestic industries."
+  },
+  {
+    "question": "Which of the following was a major challenge Nigeria faced during the 1980s?",
+    "options": [
+      "A) Declining oil prices and inflation.",
+      "B) Rapid industrialization and economic growth.",
+      "C) Increased oil production and export.",
+      "D) Strengthening of the banking sector."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nigeria faced challenges in the 1980s, including declining oil prices and inflation, which led to economic instability."
+  },
+  {
+    "question": "What has been a major development in Nigeria's economy in recent decades?",
+    "options": [
+      "A) Growth of the informal sector and small businesses.",
+      "B) Decline in industrial output.",
+      "C) Increased reliance on agriculture.",
+      "D) Complete state control of all businesses."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Recent developments in Nigeria's economy include the growth of the informal sector and small businesses, which play a significant role in commerce."
+  },
+  {
+    "question": "What was one of the main goals of Nigeria's economic reforms in the late 1990s and early 2000s?",
+    "options": [
+      "A) Diversification beyond oil.",
+      "B) Expansion of oil production.",
+      "C) Decrease in agricultural exports.",
+      "D) Nationalization of industries."
+    ],
+    "correctAnswer": 0,
+    "explanation": "One of the main goals of Nigeria's economic reforms in the late 1990s and early 2000s was to diversify the economy beyond oil."
+  },
+  {
+    "question": "Which sector experienced rapid growth in Nigeria during the 1970s oil boom?",
+    "options": [
+      "Oil and gas sector.",
+      "Agricultural sector.",
+      "Manufacturing sector.",
+      "Tourism sector."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The oil boom of the 1970s transformed Nigeria’s economy, with the oil and gas sector experiencing rapid growth."
+  }
+
+ 
     ]
   }
 ]
