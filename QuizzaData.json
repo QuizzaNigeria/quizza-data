@@ -1626,5 +1626,214 @@
   
  
   ]
+  },
+   
+  {
+    "class": "Year 8",
+    "subject": "English Lang",
+    "topic": "DIPHTHONGS",
+    "examType": "QUIZZA",
+    "questions": [
+ 
+   {
+    "question": "Which of the following words contains the diphthong /ai/?",
+    "options": [
+      "Hope",
+      "Fight",
+      "Bit",
+      "Bark"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The word 'Fight' contains the diphthong /ai/ (as in 'eye'). A diphthong is a complex vowel sound that begins with one sound and glides into another, like the sound in 'fight'."
+  },
+  {
+    "question": "Which word has the diphthong /ei/?",
+    "options": [
+      "Eat",
+      "Let",
+      "Bat",
+      "Eight"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The word 'Eight' contains the diphthong /ei/ (as in 'ay'). This diphthong is commonly heard in words like 'bait' or 'weight'."
+  },
+  {
+    "question": "Which of the following contains the diphthong /au/?",
+    "options": [
+      "Sit",
+      "Boat",
+      "House",
+      "Lamp"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The word 'House' contains the diphthong /au/ (as in 'ow'). This diphthong is heard in words like 'out' and 'how'."
+  },
+  {
+    "question": "Which of these words has the diphthong /ou/?",
+    "options": [
+      "Cloud",
+      "Sit",
+      "Ring",
+      "Mad"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The word 'Cloud' contains the diphthong /ou/ (as in 'out'). It starts with the vowel sound in 'oh' and glides into the sound of 'oo'."
+  },
+  {
+    "question": "Which word contains the diphthong /oi/?",
+    "options": [
+      "Bed",
+      "Boil",
+      "Bet",
+      "Boat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The word 'Boil' contains the diphthong /oi/ (as in 'boy'). This diphthong is heard in words like 'coin' and 'toy'."
+  },
+  {
+    "question": "Which of the following words has the diphthong /ea/?",
+    "options": [
+      "Set",
+      "Mate",
+      "Near",
+      "Get"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The word 'Near' contains the diphthong /ea/ (as in 'ear'). This diphthong is found in words like 'beer' and 'clear'."
+  },
+  {
+    "question": "Which word contains the diphthong /ie/?",
+    "options": [
+      "Bat",
+      "Sit",
+      "Beat",
+      "Pie"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The word 'Pie' contains the diphthong /ie/ (as in 'eye'). This diphthong is found in words like 'tie' and 'fly'."
+  },
+  {
+    "question": "Which word has the diphthong /ow/?",
+    "options": [
+      "Hot",
+      "How",
+      "Cold",
+      "Run"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The word 'How' contains the diphthong /ow/ (as in 'cow'). This diphthong is a combination of the sounds 'o' and 'w', often heard in words like 'now' and 'how'."
+  },
+  {
+    "question": "Which of the following words contains the diphthong /ou/?",
+    "options": [
+      "Mouth",
+      "Bit",
+      "Hut",
+      "Sit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The word 'Mouth' contains the diphthong /ou/ (as in 'out'). This diphthong is heard in words like 'house' and 'about'."
+  },
+  {
+    "question": "Which word contains the diphthong /oi/?",
+    "options": [
+      "Hand",
+      "Skin",
+      "Coin",
+      "Kite"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The word 'Coin' contains the diphthong /oi/ (as in 'boy'). This diphthong is heard in words like 'oil' and 'join'."
+  },
+  {
+    "question": "Which word contains the diphthong /ai/?",
+    "options": [
+      "Stop",
+      "Love",
+      "Pot",
+      "Mail"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The word 'Mail' contains the diphthong /ai/ (as in 'eye'). This diphthong is heard in words like 'high' and 'my'."
+  },
+  {
+    "question": "Which word contains the diphthong /ei/?",
+    "options": [
+      "Rain",
+      "Hat",
+      "Sit",
+      "Dog"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The word 'Rain' contains the diphthong /ei/ (as in 'day'). This diphthong is found in words like 'say' and 'weight'."
+  },
+  {
+    "question": "Which word contains the diphthong /au/?",
+    "options": [
+      "Bag",
+      "Loud",
+      "Boat",
+      "Cat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The word 'Loud' contains the diphthong /au/ (as in 'out'). This diphthong is heard in words like 'how' and 'now'."
+  },
+  {
+    "question": "Which of these words has the diphthong /oi/?",
+    "options": [
+      "Join",
+      "Jump",
+      "Boat",
+      "Cake"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The word 'Join' contains the diphthong /oi/ (as in 'boy'). This diphthong is found in words like 'coin' and 'toy'."
+  },
+  {
+    "question": "Which of the following words contains the diphthong /ai/?",
+    "options": [
+      "Map",
+      "Step",
+      "Cup",
+      "Rain"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The word 'Rain' contains the diphthong /ai/ (as in 'eye'). This diphthong is heard in words like 'high' and 'my'."
+  },
+  {
+    "question": "Which word contains the diphthong /ei/?",
+    "options": [
+      "Wet",
+      "Neighbor",
+      "Set",
+      "Jet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The word 'Neighbor' contains the diphthong /ei/ (as in 'day'). This diphthong appears in words like 'weight' and 'say'."
+  },
+  {
+    "question": "Which word contains the diphthong /ou/?",
+    "options": [
+      "Hit",
+      "Sit",
+      "Down",
+      "Lamp"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The word 'Down' contains the diphthong /ou/ (as in 'out'). This diphthong is found in words like 'about' and 'brown'."
+  },
+  {
+    "question": "Which of these words contains the diphthong /ai/?",
+    "options": [
+      "Pin",
+      "Sit",
+      "File",
+      "Bit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The word 'File' contains the diphthong /ai/ (as in 'eye'). This diphthong is found in words like 'my' and 'time'."
+  }
+ 
+  ]
   }
 ]
