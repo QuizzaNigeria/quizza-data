@@ -4,8 +4,7 @@
     "subject": "Commerce",
     "topic": "History of Commerce",
     "examType": "QUIZZA",
-    "questions": 
-    [
+    "questions": [
      {
     "question": "What was a major feature of the pre-colonial era in Nigeria's commerce?",
     "options": [
@@ -182,8 +181,6 @@
     "correctAnswer": 2,
     "explanation": "The oil boom of the 1970s transformed Nigeria’s economy, with the oil and gas sector experiencing rapid growth."
   }
-
- 
     ]
   }
 ]
