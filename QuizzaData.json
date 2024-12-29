@@ -1034,5 +1034,202 @@
     "explanation": "In perfect competition, there is no non-price competition, as all firms sell homogeneous products."
   }
   ]
+  },
+   
+  {
+    "class": "Year 8",
+    "subject": "English Lang",
+    "topic": "Market Structure",
+    "examType": "QUIZZA",
+    "questions": [
+ 
+ {
+    "question": "Which of the following sentences is in the active voice?",
+    "options": [
+      "A) The teacher explained the lesson.",
+      "B) The lesson was explained by the teacher.",
+      "C) The lesson is being explained.",
+      "D) The lesson will be explained by the teacher."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the active voice, the subject performs the action. In sentence A, 'The teacher' is the subject, and 'explained' is the action. This makes it an example of the active voice, where the teacher actively explains the lesson. In the other options, the subject is the recipient of the action, which makes them passive voice."
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": [
+      "A) The children ate the cake.",
+      "B) The cake was eaten by the children.",
+      "C) The children are eating the cake.",
+      "D) The children will eat the cake."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the passive voice, the subject receives the action rather than performing it. In option B, 'The cake' is the subject and 'was eaten' shows the action done to the cake by the children. This makes it a passive construction. The other sentences are in the active voice because the subject (children) performs the action."
+  },
+  {
+    "question": "What is the passive voice form of the sentence: 'She writes a letter'?",
+    "options": [
+      "A) A letter wrote by her.",
+      "B) A letter is written by her.",
+      "C) A letter is writing by her.",
+      "D) A letter has written by her."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In passive voice, the object of the action becomes the subject. The sentence 'She writes a letter' in the passive voice becomes 'A letter is written by her.' The verb 'writes' changes to 'is written', and the object ('letter') is now the subject of the sentence."
+  },
+  {
+    "question": "Which sentence is in the active voice?",
+    "options": [
+      "A) The company launched a new product.",
+      "B) A new product was launched by the company.",
+      "C) A new product is being launched by the company.",
+      "D) A new product will be launched by the company."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the active voice, the subject performs the action. In option A, 'The company' is the subject, and 'launched' is the action. This is an active voice sentence. The other options are passive because the subject ('new product') is receiving the action."
+  },
+  {
+    "question": "Which of the following sentences is in the passive voice?",
+    "options": [
+      "A) The workers build the house.",
+      "B) The workers are building the house.",
+      "C) The workers will build the house.",
+      "D) The house is being built by the workers."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In the passive voice, the subject receives the action. 'The house is being built by the workers' is in the passive voice because the house is the subject and is receiving the action. The other options are active voice, where 'the workers' perform the action."
+  },
+  {
+    "question": "What is the correct passive voice for: 'They will complete the project tomorrow'?",
+    "options": [
+      "A) The project is completed by them tomorrow.",
+      "B) The project will be completing by them tomorrow.",
+      "C) The project will be completed by them tomorrow.",
+      "D) The project is going to be completed by them tomorrow."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In passive voice, the object of the action becomes the subject. The correct passive voice form of 'They will complete the project tomorrow' is 'The project will be completed by them tomorrow.' The verb 'will complete' changes to 'will be completed' in passive voice."
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": [
+      "A) The book was read by the student.",
+      "B) The student read the book.",
+      "C) The student is reading the book.",
+      "D) The student will read the book."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the passive voice, the subject receives the action. 'The book was read by the student' is passive because the book (subject) is receiving the action of being read. The other options are in active voice, where the student (subject) performs the action."
+  },
+  {
+    "question": "Which of the following sentences is in the active voice?",
+    "options": [
+      "A) The mouse was chased by the cat.",
+      "B) The mouse is being chased by the cat.",
+      "C) The mouse will be chased by the cat.",
+      "D) The cat chased the mouse."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In active voice, the subject performs the action. In sentence D, 'The cat' is the subject, and 'chased' is the action performed on 'the mouse'. This makes it an active voice sentence. The other options are passive voice, as the subject (the mouse) is receiving the action."
+  },
+  {
+    "question": "What is the passive voice form of the sentence: 'The teacher explains the lesson'?",
+    "options": [
+      "A) The lesson explained by the teacher.",
+      "B) The lesson is explained by the teacher.",
+      "C) The lesson will be explained by the teacher.",
+      "D) The lesson was explained by the teacher."
+    ],
+    "correctAnswer": 1,
+    "explanation": "To change the sentence 'The teacher explains the lesson' into passive voice, the object ('lesson') becomes the subject. The passive form is 'The lesson is explained by the teacher'. The verb 'explains' becomes 'is explained'."
+  },
+  {
+    "question": "Which sentence is in the active voice?",
+    "options": [
+      "A) The man was bitten by the dog.",
+      "B) The man is bitten by the dog.",
+      "C) The dog bit the man.",
+      "D) The dog is biting the man."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In the active voice, the subject performs the action. In sentence C, 'The dog' is the subject, and 'bit' is the action performed. This makes it active voice. The other options are passive because the subject ('the man' or 'the dog') receives the action."
+  },
+  {
+    "question": "Which of the following sentences is in the passive voice?",
+    "options": [
+      "A) The students complete the homework.",
+      "B) The homework is being completed by the students.",
+      "C) The students are completing the homework.",
+      "D) The students will complete the homework."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the passive voice, the subject receives the action. In sentence B, 'The homework' is the subject receiving the action of being completed by the students. The other options are active because the students perform the action."
+  },
+  {
+    "question": "What is the passive voice of 'The team is playing the match today'?",
+    "options": [
+      "A) The match played by the team today.",
+      "B) The match is played by the team today.",
+      "C) The match is being played by the team today.",
+      "D) The match will be played by the team today."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passive voice of 'The team is playing the match today' is 'The match is being played by the team today.' Here, the object ('the match') becomes the subject, and the verb changes to 'is being played'."
+  },
+  {
+    "question": "Which of the following sentences is in the passive voice?",
+    "options": [
+      "A) The manager wrote the report.",
+      "B) The manager is writing the report.",
+      "C) The manager will write the report.",
+      "D) The report was written by the manager."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In the passive voice, the subject receives the action. 'The report was written by the manager' is in the passive voice because 'the report' is the subject receiving the action. The other sentences are active voice because the manager performs the action."
+  },
+  {
+    "question": "Which of the following sentences is in the active voice?",
+    "options": [
+      "A) The chef cooked a delicious meal.",
+      "B) A delicious meal was cooked by the chef.",
+      "C) A delicious meal is cooked by the chef.",
+      "D) A delicious meal will be cooked by the chef."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the active voice, the subject performs the action. In sentence A, 'The chef' is the subject, and 'cooked' is the action. This makes it an active voice sentence. The other options are passive because the subject ('a delicious meal') receives the action."
+  },
+  {
+    "question": "What is the passive voice form of: 'She helps him every day'?",
+    "options": [
+      "A) He helped by her every day.",
+      "B) He is helped by her every day.",
+      "C) He helps by her every day.",
+      "D) He was helped by her every day."
+    ],
+    "correctAnswer": 1,
+    "explanation": "To change 'She helps him every day' to passive voice, the object ('him') becomes the subject. The correct passive voice form is 'He is helped by her every day.' The verb 'helps' becomes 'is helped' in passive voice."
+  },
+  {
+    "question": "Which of the following sentences is in the active voice?",
+    "options": [
+      "A) Football is being played by the children.",
+      "B) Football was played by the children.",
+      "C) The children are playing football.",
+      "D) Football will be played by the children."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In the active voice, the subject performs the action. In sentence C, 'The children' are the subject and 'are playing' is the action. This makes it an active voice sentence. The other options are passive because the subject ('football') is receiving the action."
+  },
+  {
+    "question": "What is the passive voice of: 'The gardener waters the plants'?",
+    "options": [
+      "A) The plants are watered by the gardener.",
+      "B) The plants are being watered by the gardener.",
+      "C) The plants watered by the gardener.",
+      "D) The plants were watered by the gardener."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the passive voice, the object ('the plants') becomes the subject. The correct passive voice form of 'The gardener waters the plants' is 'The plants are watered by the gardener.' The verb 'waters' changes to 'are watered' in passive voice."
+  }
+  ]
   }
 ]
