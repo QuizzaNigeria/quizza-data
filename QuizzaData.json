@@ -596,5 +596,213 @@
     "explanation": "A drawback of focusing solely on home trade is the limited access to a variety of products that could be available through international trade."
   }
   ]
+  },
+   
+  {
+    "class": "Year 8",
+    "subject": "Business Studies",
+    "topic": "SALES AND PURCHASE DOCUMENTS",
+    "examType": "QUIZZA",
+    "questions": [
+ 
+  {
+    "question": "What is a sales invoice used for?",
+    "options": [
+      "A) To show the details of the products sold and the amount due for payment.",
+      "B) To track inventory stock levels.",
+      "C) To record a customer's complaint.",
+      "D) To request payment from a supplier."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A sales invoice provides a detailed record of products sold and the amount that the customer needs to pay."
+  },
+  {
+    "question": "Which of the following items would typically be listed on a purchase order?",
+    "options": [
+      "A) The price paid for each item purchased.",
+      "B) The quantity and description of the items being ordered.",
+      "C) The payment method used for the order.",
+      "D) The delivery address of the customer."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A purchase order includes the quantity, description, and specifications of the items being ordered from a supplier."
+  },
+  {
+    "question": "What is the main function of a receipt in a sales transaction?",
+    "options": [
+      "A) To confirm the delivery address of the products.",
+      "B) To list the items purchased and their prices.",
+      "C) To provide proof of payment for goods or services.",
+      "D) To request a return or exchange of items."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A receipt serves as proof that a customer has paid for goods or services received."
+  },
+  {
+    "question": "When would a sales order document be used?",
+    "options": [
+      "A) When a customer places an order for products or services.",
+      "B) When a supplier sends goods to a customer.",
+      "C) When a business receives payment for services.",
+      "D) When a customer requests a refund."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A sales order is used when a customer places an order for products or services from a business."
+  },
+  {
+    "question": "What does a delivery note accompany?",
+    "options": [
+      "A) A payment receipt for services rendered.",
+      "B) A request for goods to be purchased.",
+      "C) An invoice for the customer to pay.",
+      "D) A shipment of goods being delivered to the customer."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A delivery note is provided along with a shipment of goods and lists the items being delivered."
+  },
+  {
+    "question": "Which of the following is an example of when a purchase order is given?",
+    "options": [
+      "A) When a customer receives a discount on an item.",
+      "B) When a customer receives a refund for returned goods.",
+      "C) When a business orders raw materials from a supplier.",
+      "D) When a customer makes a payment for a service."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A purchase order is used when a business orders goods or services from a supplier, such as ordering raw materials."
+  },
+  {
+    "question": "What is typically included on a quotation document?",
+    "options": [
+      "A) The date of delivery for the products.",
+      "B) The price of goods or services offered by a seller to a buyer.",
+      "C) A list of customer complaints about products.",
+      "D) A request for payment from the buyer."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A quotation includes the price and terms for goods or services that a seller is offering to a buyer."
+  },
+  {
+    "question": "Which document would you use to request a refund for a damaged item?",
+    "options": [
+      "A) A return note.",
+      "B) A purchase order.",
+      "C) A delivery note.",
+      "D) A sales invoice."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A return note is used to request a return or refund for an item that is damaged or unsatisfactory."
+  },
+  {
+    "question": "What is the function of a purchase invoice?",
+    "options": [
+      "A) To track customer complaints.",
+      "B) To offer discounts on bulk orders.",
+      "C) To request payment for goods or services that have been delivered.",
+      "D) To confirm the delivery of goods."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A purchase invoice is issued to request payment from a customer for goods or services that have been delivered."
+  },
+  {
+    "question": "When would a business typically issue a credit note?",
+    "options": [
+      "A) When the payment is due from the customer.",
+      "B) When the delivery of goods is completed.",
+      "C) When the order is confirmed.",
+      "D) When there is an overpayment or the goods are returned."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A credit note is issued when a customer returns goods or when there is an overpayment for an order."
+  },
+  {
+    "question": "What does a sales receipt confirm?",
+    "options": [
+      "A) That goods have been shipped to a customer.",
+      "B) That payment has been made for goods or services.",
+      "C) The quantity of goods ordered.",
+      "D) The price of items still owed."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A sales receipt confirms that payment has been made for goods or services that were purchased."
+  },
+  {
+    "question": "Which document is used to track a customer’s order after it has been placed?",
+    "options": [
+      "A) Sales order confirmation.",
+      "B) Purchase order.",
+      "C) Delivery note.",
+      "D) Return note."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A sales order confirmation is used to track a customer's order after it has been placed, confirming the items ordered and their price."
+  },
+  {
+    "question": "What is the function of a proforma invoice?",
+    "options": [
+      "A) To request an order from a supplier.",
+      "B) To issue a payment receipt.",
+      "C) To provide a preliminary bill of sale before the actual transaction.",
+      "D) To track inventory of sold products."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A proforma invoice is issued as a preliminary bill of sale before the actual transaction occurs, outlining the products and prices."
+  },
+  {
+    "question": "Which document would a business provide after receiving payment for a service?",
+    "options": [
+      "A) A quotation.",
+      "B) A purchase order.",
+      "C) A credit note.",
+      "D) A receipt."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A receipt is provided to a customer after payment for a service has been received, confirming the transaction."
+  },
+  {
+    "question": "What does a delivery note generally contain?",
+    "options": [
+      "A) A list of items being delivered.",
+      "B) The amount paid by the customer.",
+      "C) The supplier’s payment details.",
+      "D) The terms of service for the products."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A delivery note typically includes a list of items that are being delivered to a customer as part of an order."
+  },
+  {
+    "question": "When is a sales order typically given in a real-life scenario?",
+    "options": [
+      "A) When a supplier ships the goods.",
+      "B) When a customer places an order for a product in a store.",
+      "C) When the invoice is paid.",
+      "D) When a customer returns a product."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A sales order is given when a customer places an order for products or services, such as in a store or online."
+  },
+  {
+    "question": "Which of the following documents would most likely be used to confirm the order of a new product from a supplier?",
+    "options": [
+      "A) Purchase order.",
+      "B) Sales order.",
+      "C) Delivery note.",
+      "D) Sales invoice."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A purchase order is used to confirm an order made to a supplier for new products or materials."
+  },
+  {
+    "question": "What item would you expect to find on a proforma invoice?",
+    "options": [
+      "A) A refund request from the buyer.",
+      "B) A preliminary bill for goods or services that have not yet been delivered.",
+      "C) A delivery confirmation.",
+      "D) An invoice for completed services."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A proforma invoice is a preliminary document that outlines the expected costs for goods or services before the actual transaction."
+  }
+  ]
   }
 ]
