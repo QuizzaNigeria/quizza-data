@@ -1231,5 +1231,224 @@
     "explanation": "In the passive voice, the object ('the plants') becomes the subject. The correct passive voice form of 'The gardener waters the plants' is 'The plants are watered by the gardener.' The verb 'waters' changes to 'are watered' in passive voice."
   }
   ]
+  },
+   
+  {
+    "class": "Year 8",
+    "subject": "English Language",
+    "topic": "Verbs",
+    "examType": "QUIZZA",
+    "questions": [
+ 
+ {
+    "question": "Which sentence contains a transitive verb?",
+    "options": [
+      "The dog barks loudly.",
+      "She reads a book every day.",
+      "He is sleeping on the couch.",
+      "They are walking in the park."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A transitive verb is one that takes a direct object. In the sentence 'She reads a book every day,' the verb 'reads' is transitive because it has the direct object 'a book'. A direct object answers the question 'What?' or 'Whom?' after the verb. In this case, 'What does she read?' The answer is 'a book'."
+  },
+  {
+    "question": "Which of the following is an example of an irregular verb?",
+    "options": [
+      "Walk",
+      "Talk",
+      "Go",
+      "Jump"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Go' is an irregular verb because its past tense is 'went', which doesn't follow the regular pattern of adding 'ed' to the base verb. For example, 'walk' becomes 'walked', and 'talk' becomes 'talked', following the regular pattern. 'Go' is an exception."
+  },
+  {
+    "question": "What is the past tense of the verb 'eat'?",
+    "options": [
+      "Ate",
+      "Eaten",
+      "Eating",
+      "Eats"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Ate' is the simple past tense of the verb 'eat'. Simple past tense is used to talk about actions that happened and finished in the past. For example, 'I ate lunch an hour ago.' 'Eaten' is the past participle, used with auxiliary verbs like 'have' or 'had'."
+  },
+  {
+    "question": "Which of the following sentences uses a helping verb?",
+    "options": [
+      "She finished her homework.",
+      "She has finished her homework.",
+      "She finishes her homework.",
+      "She will finish her homework."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A helping verb (also known as an auxiliary verb) is used with a main verb to form different tenses, voices, or moods. In the sentence 'She has finished her homework', 'has' is the helping verb, and 'finished' is the main verb. Together, they form the present perfect tense, indicating an action that was completed at an unspecified time in the past."
+  },
+  {
+    "question": "Which verb form is used in the sentence: 'I am running'?",
+    "options": [
+      "Past continuous",
+      "Simple present",
+      "Present continuous",
+      "Simple past"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The verb 'am running' is in the present continuous tense, which is used to describe an action happening at the moment of speaking. The present continuous is formed using the verb 'to be' (am, is, are) + the main verb in its -ing form. For example, 'I am eating' or 'She is studying.'"
+  },
+  {
+    "question": "Which verb is in the future tense?",
+    "options": [
+      "Played",
+      "Playing",
+      "Play",
+      "Will play"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Will play' is in the future tense. The future tense is used to describe an action that will happen in the future. It is formed with the modal verb 'will' followed by the base form of the main verb. For example, 'I will go to the store tomorrow.'"
+  },
+  {
+    "question": "Which of the following verbs is in the past perfect tense?",
+    "options": [
+      "Had eaten",
+      "Ate",
+      "Eating",
+      "Eats"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The past perfect tense is used to show that one action happened before another action in the past. The past perfect is formed with 'had' + the past participle of the verb. In the example 'had eaten,' the action of eating was completed before another past event. For example, 'I had eaten lunch before he arrived.'"
+  },
+  {
+    "question": "Which sentence uses a modal verb?",
+    "options": [
+      "She swims every day.",
+      "She can swim very well.",
+      "She is swimming now.",
+      "She swam yesterday."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A modal verb is used to express possibility, ability, permission, or obligation. In the sentence 'She can swim very well,' the verb 'can' is a modal verb, indicating ability. Modal verbs are followed by the base form of the main verb. Other examples include 'must,' 'may,' and 'should.'"
+  },
+  {
+    "question": "Which verb is in the passive voice?",
+    "options": [
+      "The children ate the cake.",
+      "The children are eating the cake.",
+      "The cake was eaten by the children.",
+      "The cake is eaten by the children."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In the passive voice, the subject of the sentence receives the action rather than performing it. In the sentence 'The cake was eaten by the children,' the subject 'the cake' is the recipient of the action, and the verb 'was eaten' is in the passive voice. Active voice would be 'The children ate the cake.'"
+  },
+  {
+    "question": "Which of the following is an example of a regular verb?",
+    "options": [
+      "Go",
+      "Walk",
+      "Eat",
+      "Run"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Walk' is a regular verb because its past tense is formed by adding 'ed' (walked). Regular verbs follow a predictable pattern, where you simply add 'ed' to form the past tense. For example, 'talk' becomes 'talked,' 'jump' becomes 'jumped.' Irregular verbs, like 'go' and 'eat,' do not follow this pattern."
+  },
+  {
+    "question": "Which verb tense is used in the sentence: 'She will have finished by tomorrow'?",
+    "options": [
+      "Present perfect",
+      "Simple future",
+      "Past perfect",
+      "Future perfect"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Will have finished' is in the future perfect tense. This tense indicates an action that will be completed in the future before another event. For example, 'By the time you arrive, I will have eaten.' The future perfect is formed using 'will have' + the past participle of the verb."
+  },
+  {
+    "question": "What is the verb form of 'to run' in the sentence: 'He is running'?",
+    "options": [
+      "Infinitive",
+      "Present participle",
+      "Past tense",
+      "Past participle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Running' is the present participle of 'run'. Present participles are used in continuous tenses (e.g., 'is running'). The present participle ends in '-ing' and is used to indicate an ongoing action."
+  },
+  {
+    "question": "Which verb is used to form the past continuous tense?",
+    "options": [
+      "Is",
+      "Will",
+      "Was",
+      "Has"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The verb 'was' (or 'were' for plural subjects) is used with the present participle to form the past continuous tense. For example, 'She was singing' indicates an action that was ongoing in the past."
+  },
+  {
+    "question": "Which of the following sentences uses a regular verb?",
+    "options": [
+      "He played soccer yesterday.",
+      "He goes to the park.",
+      "He will eat lunch.",
+      "He is running now."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Played' is a regular verb because its past tense is formed by adding 'ed' to the base verb 'play'. Regular verbs follow a predictable pattern, such as 'talk' becoming 'talked' and 'jump' becoming 'jumped.'"
+  },
+  {
+    "question": "Which of the following is the correct form of the verb in the sentence: 'She _____ to the store every week.'",
+    "options": [
+      "Go",
+      "Gone",
+      "Goes",
+      "Going"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct verb form is 'goes'. In this sentence, 'goes' is the third-person singular form of the verb 'go' in the present tense, used with singular subjects like 'she'."
+  },
+  {
+    "question": "What is the correct form of the verb in the sentence: 'They _____ their homework.'",
+    "options": [
+      "Had finished",
+      "Have finished",
+      "Finished",
+      "Finish"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Have finished' is in the present perfect tense, indicating an action that has been completed at some point before now. It is formed with 'have' or 'has' + the past participle ('finished'). For example, 'I have eaten.'"
+  },
+  {
+    "question": "Which verb form is used in 'She was singing all day'?",
+    "options": [
+      "Past continuous",
+      "Present continuous",
+      "Simple past",
+      "Present perfect"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Was singing' is in the past continuous tense. The past continuous is used to describe an action that was happening continuously in the past. It is formed using 'was' or 'were' + the present participle (verb + -ing)."
+  },
+  {
+    "question": "Which of the following is the base form of the verb?",
+    "options": [
+      "Went",
+      "Going",
+      "Gone",
+      "Go"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Go' is the base form of the verb. It is used in the present tense for I, you, we, and they (e.g., 'I go to school every day'). The base form is the dictionary form of the verb, without any conjugation or tense."
+  },
+  {
+    "question": "Which verb is in the present perfect tense?",
+    "options": [
+      "Ate",
+      "Has eaten",
+      "Eating",
+      "Eats"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Has eaten' is in the present perfect tense. The present perfect is used to talk about an action that has been completed at an unspecified time before now. It is formed with 'have' or 'has' + the past participle of the verb ('eaten')."
+  }
+  ]
   }
 ]
