@@ -1450,5 +1450,181 @@
     "explanation": "'Has eaten' is in the present perfect tense. The present perfect is used to talk about an action that has been completed at an unspecified time before now. It is formed with 'have' or 'has' + the past participle of the verb ('eaten')."
   }
   ]
+  },
+   
+  {
+    "class": "Year 8",
+    "subject": "English Lang",
+    "topic": "RELATIVE ADJECTIVAL CLAUSE",
+    "examType": "QUIZZA",
+    "questions": [
+ {
+    "question": "Which sentence contains a relative adjectival clause?",
+    "options": [
+      "The book is on the table.",
+      "The book that I bought yesterday is interesting.",
+      "I have a book.",
+      "The book is blue."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence 'The book that I bought yesterday is interesting' contains a relative adjectival clause 'that I bought yesterday', which provides more information about 'the book'. A relative adjectival clause modifies a noun and typically begins with a relative pronoun such as 'that', 'who', or 'which'."
+  },
+  {
+    "question": "Identify the relative adjectival clause in this sentence: 'The dog that chased the cat is mine.'",
+    "options": [
+      "that chased the cat",
+      "The dog",
+      "is mine",
+      "The cat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The relative adjectival clause is 'that chased the cat', as it gives more information about the noun 'the dog'. This clause modifies the noun and is introduced by the relative pronoun 'that'."
+  },
+  {
+    "question": "Which of the following sentences has a relative adjectival clause?",
+    "options": [
+      "The teacher is kind.",
+      "The teacher helped me.",
+      "The teacher who helped me is kind.",
+      "I like the teacher."
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Who helped me' is the relative adjectival clause in 'The teacher who helped me is kind.' It modifies the noun 'teacher' by providing additional information about the teacher."
+  },
+  {
+    "question": "Choose the correct relative adjectival clause: 'The students _____ did their homework are in class.'",
+    "options": [
+      "which",
+      "where",
+      "whose",
+      "who"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct relative pronoun here is 'who', as it is used to describe people (in this case, the students). 'Who' introduces a relative adjectival clause that gives more details about the subject of the sentence."
+  },
+  {
+    "question": "What does the relative adjectival clause modify in the sentence: 'The car which is parked outside belongs to my neighbor'?",
+    "options": [
+      "My neighbor",
+      "The car",
+      "Outside",
+      "Belongs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The relative clause 'which is parked outside' modifies 'the car', providing more information about the car's location."
+  },
+  {
+    "question": "Which sentence uses a relative clause to describe a noun?",
+    "options": [
+      "The cake that I baked is delicious.",
+      "I baked the cake.",
+      "The cake is delicious.",
+      "I like the cake."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'That I baked' is the relative adjectival clause modifying 'the cake'. It describes which cake is being referred to by providing additional detail."
+  },
+  {
+    "question": "Select the sentence with a relative adjectival clause.",
+    "options": [
+      "The man is upset.",
+      "The man stole a car.",
+      "The man whose car was stolen is upset.",
+      "The car is stolen."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In 'The man whose car was stolen is upset', the clause 'whose car was stolen' describes 'the man'. It provides more information about him, specifically about his possession (the car)."
+  },
+  {
+    "question": "Which sentence contains a relative adjectival clause?",
+    "options": [
+      "The movie was thrilling.",
+      "The movie that we watched last night was thrilling.",
+      "We watched the movie.",
+      "Last night's movie was thrilling."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'That we watched last night' is the relative adjectival clause describing 'the movie'. It provides additional details about the movie, specifically when it was watched."
+  },
+  {
+    "question": "Which of the following sentences correctly uses a relative adjectival clause?",
+    "options": [
+      "She read the book.",
+      "The book is on the shelf.",
+      "The shelf is big.",
+      "The book that she read is on the shelf."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The relative clause 'that she read' modifies 'the book'. It adds more information about which book is being referred to, specifying it as the one she read."
+  },
+  {
+    "question": "Identify the relative adjectival clause: 'The dog which barked loudly woke me up.'",
+    "options": [
+      "The dog",
+      "which barked loudly",
+      "woke me up",
+      "me up"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Which barked loudly' is the relative adjectival clause that modifies 'the dog'. It provides additional information about the dog, describing its action."
+  },
+  {
+    "question": "Which of the following sentences includes a relative adjectival clause?",
+    "options": [
+      "The person is waiting outside.",
+      "The person called you.",
+      "The person who called you is waiting outside.",
+      "You are waiting outside."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The clause 'who called you' is the relative adjectival clause modifying 'the person'. It provides additional information about who the person is."
+  },
+  {
+    "question": "Which sentence has a relative adjectival clause?",
+    "options": [
+      "The students who study hard are successful.",
+      "The students are successful.",
+      "They study hard.",
+      "Hard work is important."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Who study hard' is the relative adjectival clause describing 'the students'. It gives more detail about the students' behavior."
+  },
+  {
+    "question": "Choose the sentence that contains a relative adjectival clause.",
+    "options": [
+      "The house is for sale.",
+      "I grew up there.",
+      "The house is old.",
+      "The house where I grew up is now for sale."
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Where I grew up' is the relative adjectival clause that modifies 'the house'. It tells us more about the house, specifying where it is located."
+  },
+  {
+    "question": "Which word in the sentence 'The man who helped me is my uncle' is the relative pronoun?",
+    "options": [
+      "man",
+      "who",
+      "helped",
+      "uncle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The word 'who' is the relative pronoun used to introduce the relative adjectival clause 'who helped me'. It connects the clause to the noun 'man'."
+  },
+  {
+    "question": "Which of the following sentences uses a relative adjectival clause to describe a person?",
+    "options": [
+      "The teacher is kind.",
+      "The teacher who loves books is kind.",
+      "The teacher loves books.",
+      "The teacher is loved."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Who loves books' is the relative adjectival clause that describes 'the teacher'. It provides more information about the teacher's interests."
+  }
+  
+ 
+  ]
   }
 ]
