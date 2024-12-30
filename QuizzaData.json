@@ -2064,7 +2064,243 @@
       "explanation": "0.25 in words is 'Twenty-five hundredths'. This is because 0.25 is equivalent to 25 out of 100 parts, which can be read as twenty-five hundredths."
     }
   ]
+},
+  {
+    "class": "Year 7",
+    "subject": "Math",
+    "topic": "FRACTION AND PERCENTAGE",
+    "examType": "QUIZZA",
+    "questions": [
+ 
+   {
+  "question": "What is 1/2 as a percentage?",
+  "options": [
+    "25%",
+    "75%",
+    "50%",
+    "100%"
+  ],
+  "correctAnswer": 2,
+  "explanation": "To convert a fraction to a percentage, multiply by 100. So, (1/2) * 100 = 50%. This means that 1/2 is equal to 50%."
+},
+
+{
+  "question": "What is 3/4 as a percentage?",
+  "options": [
+    "50%",
+    "75%",
+    "100%",
+    "25%"
+  ],
+  "correctAnswer": 1,
+  "explanation": "To convert 3/4 to a percentage, multiply by 100. So, (3/4) * 100 = 75%. Therefore, 3/4 equals 75%."
+},
+
+{
+  "question": "What is 2/5 as a percentage?",
+  "options": [
+    "40%",
+    "20%",
+    "60%",
+    "80%"
+  ],
+  "correctAnswer": 0,
+  "explanation": "To convert 2/5 to a percentage, multiply by 100. So, (2/5) * 100 = 40%. This means 2/5 is 40%."
+},
+
+{
+  "question": "What is 7/10 as a percentage?",
+  "options": [
+    "60%",
+    "80%",
+    "70%",
+    "50%"
+  ],
+  "correctAnswer": 2,
+  "explanation": "To convert 7/10 to a percentage, multiply by 100. So, (7/10) * 100 = 70%. Therefore, 7/10 equals 70%."
+},
+
+{
+  "question": "Convert 5/8 to a percentage.",
+  "options": [
+    "50%",
+    "70%",
+    "75%",
+    "62.5%"
+  ],
+  "correctAnswer": 3,
+  "explanation": "To convert 5/8 to a percentage, multiply by 100. So, (5/8) * 100 = 62.5%. Hence, 5/8 is equal to 62.5%."
+},
+
+{
+  "question": "If a class has 20 students and 1/4 of them are absent, how many students are absent?",
+  "options": [
+    "10 students",
+    "5 students",
+    "4 students",
+    "8 students"
+  ],
+  "correctAnswer": 1,
+  "explanation": "1/4 of 20 students is (20 * 1/4) = 5 students. So, 5 students are absent."
+},
+
+{
+  "question": "If you score 3/5 on a test with 100 points, what is your score in percentage?",
+  "options": [
+    "60%",
+    "70%",
+    "50%",
+    "80%"
+  ],
+  "correctAnswer": 0,
+  "explanation": "To convert 3/5 to a percentage, multiply by 100. So, (3/5) * 100 = 60%. Therefore, you scored 60%."
+},
+
+{
+  "question": "A store is offering a 30% discount on a $200 jacket. How much will the jacket cost after the discount?",
+  "options": [
+    "$120",
+    "$140",
+    "$150",
+    "$160"
+  ],
+  "correctAnswer": 1,
+  "explanation": "30% of $200 is (30/100) * 200 = $60. Subtract $60 from $200: 200 - 60 = $140. So, the jacket will cost $140."
+},
+
+{
+  "question": "You have $50. If you spend 3/5 of it, how much money will you have left?",
+  "options": [
+    "$30",
+    "$10",
+    "$20",
+    "$25"
+  ],
+  "correctAnswer": 2,
+  "explanation": "3/5 of $50 is (3/5) * 50 = $30. Subtract $30 from $50: 50 - 30 = $20. So, you will have $20 left."
+},
+
+{
+  "question": "If you eat 2/3 of a pizza and your friend eats 1/4, how much of the pizza is left?",
+  "options": [
+    "1/6",
+    "1/12",
+    "1/4",
+    "1/8"
+  ],
+  "correctAnswer": 1,
+  "explanation": "2/3 of the pizza plus 1/4 of the pizza is 8/12 + 3/12 = 11/12. Subtract this from 12/12 to get the remaining pizza: 12/12 - 11/12 = 1/12. So, 1/12 of the pizza is left."
+},
+
+{
+  "question": "A car travels 3/4 of the way to a destination. If the total distance is 100 miles, how far has the car traveled?",
+  "options": [
+    "50 miles",
+    "60 miles",
+    "75 miles",
+    "80 miles"
+  ],
+  "correctAnswer": 2,
+  "explanation": "3/4 of 100 miles is (3/4) * 100 = 75 miles. So, the car has traveled 75 miles."
+},
+
+{
+  "question": "A recipe requires 2/3 cup of sugar, but you want to make only half of the recipe. How much sugar do you need?",
+  "options": [
+    "2/5 cup",
+    "1/2 cup",
+    "1/4 cup",
+    "1/3 cup"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Half of 2/3 cup is (1/2) * (2/3) = 1/3 cup. So, you need 1/3 cup of sugar."
+},
+
+{
+  "question": "A garden is 3/4 of an acre. If you plant flowers in 1/2 of the garden, how much of the garden is planted?",
+  "options": [
+    "3/8 acre",
+    "1/2 acre",
+    "1/4 acre",
+    "1/3 acre"
+  ],
+  "correctAnswer": 0,
+  "explanation": "1/2 of 3/4 acre is (1/2) * (3/4) = 3/8 acre. So, 3/8 of the garden is planted."
+},
+
+{
+  "question": "If you save 4/10 of your weekly allowance of $50, how much money have you saved?",
+  "options": [
+    "$25",
+    "$15",
+    "$20",
+    "$30"
+  ],
+  "correctAnswer": 2,
+  "explanation": "4/10 of $50 is (4/10) * 50 = $20. So, you have saved $20."
+},
+
+{
+  "question": "If you walk 5/6 of a 30-minute walk, how long have you walked?",
+  "options": [
+    "20 minutes",
+    "25 minutes",
+    "30 minutes",
+    "15 minutes"
+  ],
+  "correctAnswer": 1,
+  "explanation": "5/6 of 30 minutes is (5/6) * 30 = 25 minutes. So, you have walked 25 minutes."
+},
+
+{
+  "question": "If a shirt costs $50 and is on sale for 15% off, how much will the shirt cost after the discount?",
+  "options": [
+    "$45",
+    "$48",
+    "$40",
+    "$42.50"
+  ],
+  "correctAnswer": 3,
+  "explanation": "15% of $50 is (15/100) * 50 = $7.50. Subtract $7.50 from $50: 50 - 7.50 = $42.50. So, the shirt will cost $42.50 after the discount."
+},
+{
+  "question": "You have 12 apples, and you give away 1/3 of them. How many apples do you give away?",
+  "options": [
+    "3 apples",
+    "4 apples",
+    "5 apples",
+    "6 apples"
+  ],
+  "correctAnswer": 1,
+  "explanation": "To find out how many apples you give away, calculate 1/3 of 12. So, (1/3) * 12 = 4 apples. Therefore, you give away 4 apples."
+},
+
+{
+  "question": "If you earn $120 in a week and save 25% of it, how much money do you save?",
+  "options": [
+    "$20",
+    "$40",
+    "$30",
+    "$50"
+  ],
+  "correctAnswer": 2,
+  "explanation": "To calculate 25% of $120, multiply by 25/100: (25/100) * 120 = $30. So, you save $30."
+},
+
+{
+  "question": "A bag contains 60 marbles. If 1/5 of them are red, how many red marbles are in the bag?",
+  "options": [
+    "12 marbles",
+    "15 marbles",
+    "10 marbles",
+    "20 marbles"
+  ],
+  "correctAnswer": 0,
+  "explanation": "To find the number of red marbles, calculate 1/5 of 60: (1/5) * 60 = 12 marbles. Therefore, there are 12 red marbles in the bag."
 }
+ 
+  ]
+  }
 
   
 ]
