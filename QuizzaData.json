@@ -2760,6 +2760,242 @@
   
  
   ]
+  },
+   {
+    "class": "Year 11",
+    "subject": "Economics",
+    "topic": "Theory of Demand II",
+    "examType": "QUIZZA",
+    "questions": [
+{
+  "question": "What does the law of demand describe?",
+  "options": [
+    "The relationship between income and demand",
+    "The relationship between price and demand",
+    "The relationship between quantity supplied and price",
+    "The relationship between demand and supply"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The law of demand states that, all else being equal, as the price of a good increases, the quantity demanded decreases, and as the price decreases, the quantity demanded increases. This inverse relationship can be seen in most markets. For example, if the price of apples rises, people may buy fewer apples, and if the price falls, they may buy more."
+},
+
+{
+  "question": "What is the demand curve for a normal good typically?",
+  "options": [
+    "Upward sloping",
+    "Downward sloping",
+    "Vertical",
+    "Horizontal"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The demand curve for a normal good typically slopes downward, meaning as the price of the good decreases, the quantity demanded increases. This reflects the law of demand. For example, when the price of a smartphone drops, more people are likely to buy it."
+},
+
+{
+  "question": "Which of the following represents a change in quantity demanded?",
+  "options": [
+    "A price increase causes consumers to buy less",
+    "A consumer's income increases",
+    "A new substitute good enters the market",
+    "A change in consumer preferences"
+  ],
+  "correctAnswer": 0,
+  "explanation": "A change in quantity demanded refers to the movement along the demand curve in response to a change in the price of the good. For example, if the price of coffee increases, people may buy less coffee, which is a change in quantity demanded. This is different from a change in demand, which is caused by factors like income or preferences."
+},
+
+{
+  "question": "Which factor does NOT directly affect the demand for a good?",
+  "options": [
+    "Price of the good",
+    "Consumer income",
+    "Price of related goods",
+    "Cost of production of the good"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The cost of production of a good does not directly affect demand. It impacts the supply side of the market, affecting how much of the good producers are willing to offer. On the other hand, factors like the price of the good, consumer income, and the price of related goods (like substitutes or complements) directly influence demand."
+},
+
+{
+  "question": "What happens when there is an increase in consumer income?",
+  "options": [
+    "Demand for normal goods decreases",
+    "Demand for inferior goods increases",
+    "Demand for normal goods increases",
+    "Supply of normal goods increases"
+  ],
+  "correctAnswer": 2,
+  "explanation": "When consumer income increases, people generally have more money to spend, leading to an increase in the demand for normal goods, which are goods that people buy more of as their income rises. For example, if people earn more money, they may demand more luxury goods like expensive clothing or electronics."
+},
+
+{
+  "question": "Which of the following is true about a perfectly elastic demand curve?",
+  "options": [
+    "It is horizontal",
+    "It is vertical",
+    "It slopes downward",
+    "It slopes upward"
+  ],
+  "correctAnswer": 0,
+  "explanation": "A perfectly elastic demand curve is horizontal, meaning that at a certain price, consumers will demand an infinite quantity of the good, but if the price increases even slightly, the quantity demanded drops to zero. This situation is rare but can occur in markets with perfect substitutes, like if there are two identical products being sold at different prices."
+},
+
+{
+  "question": "Which of the following is an example of complementary goods?",
+  "options": [
+    "Tea and coffee",
+    "Shoes and socks",
+    "Cars and petrol",
+    "Bread and butter"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Complementary goods are products that are typically consumed together. An example is bread and butter. If the price of bread decreases, the demand for butter may increase because people are more likely to buy butter when they buy bread."
+},
+
+{
+  "question": "What is the effect of a decrease in the price of a substitute good on demand?",
+  "options": [
+    "Demand for the original good increases",
+    "Demand for the original good decreases",
+    "Demand for the substitute good decreases",
+    "Demand for the original good remains unchanged"
+  ],
+  "correctAnswer": 1,
+  "explanation": "When the price of a substitute good (like tea) decreases, consumers may switch from the original good (like coffee) to the cheaper substitute. As a result, the demand for the original good (coffee) decreases. This is because consumers tend to choose the less expensive option when both goods serve similar purposes."
+},
+{
+  "question": "If the demand function is Qd = 50 - 2P, what is the quantity demanded when P = 10?",
+  "options": [
+    "30",
+    "40",
+    "50",
+    "60"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The demand function is given by Qd = 50 - 2P. To find the quantity demanded when P = 10, substitute 10 for P in the equation: Qd = 50 - 2(10) = 50 - 20 = 30. So, when the price is 10, the quantity demanded is 30."
+},
+
+{
+  "question": "Which of the following is an example of competitive demand?",
+  "options": [
+    "Demand for tea and coffee",
+    "Demand for oil in the production of cars",
+    "Demand for pencils and erasers",
+    "Demand for bicycles and motorcycle helmets"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Competitive demand refers to goods that can be substituted for each other. Tea and coffee are examples of competitive goods because consumers often choose between one or the other based on factors like price or taste."
+},
+
+{
+  "question": "Which of the following factors causes a rightward shift in the demand curve?",
+  "options": [
+    "A decrease in the price of complementary goods",
+    "An increase in income",
+    "A decrease in the price of the good itself",
+    "A decrease in the price of a substitute"
+  ],
+  "correctAnswer": 1,
+  "explanation": "A rightward shift in the demand curve indicates an increase in demand. This can be caused by an increase in consumer income, as people are willing and able to buy more of the good at every price. For example, if people earn more money, they may buy more smartphones, shifting the demand curve to the right."
+},
+
+{
+  "question": "What is the main cause of a change in the quantity demanded?",
+  "options": [
+    "Change in the price of the good",
+    "Change in consumer income",
+    "Change in tastes and preferences",
+    "Change in the price of related goods"
+  ],
+  "correctAnswer": 0,
+  "explanation": "A change in the quantity demanded occurs when there is a change in the price of the good itself. If the price of a good increases, the quantity demanded decreases, and if the price decreases, the quantity demanded increases. This is represented as a movement along the demand curve, not a shift in the curve."
+},
+
+{
+  "question": "Which of the following is an example of derived demand?",
+  "options": [
+    "Demand for coal due to demand for electricity",
+    "Demand for food items",
+    "Demand for high-end luxury items",
+    "Demand for clothing in summer"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Derived demand refers to the demand for a factor of production or input that arises from the demand for a final good. For example, the demand for coal increases when there is higher demand for electricity, as coal is used to generate electricity. The demand for coal is thus derived from the demand for electricity."
+},
+
+{
+  "question": "If the price of a good increases and its demand decreases, the good is classified as?",
+  "options": [
+    "A Giffen good",
+    "A normal good",
+    "An inferior good",
+    "A Veblen good"
+  ],
+  "correctAnswer": 1,
+  "explanation": "A normal good is one where demand decreases as the price increases. In this case, the price increase leads to a decrease in demand, which is typical of normal goods. Examples include most everyday products, like food or clothing, where people buy less when prices go up."
+},
+
+{
+  "question": "What is the relationship between price and demand for a Giffen good?",
+  "options": [
+    "Demand increases as price increases",
+    "Demand decreases as price increases",
+    "Demand remains unchanged with price changes",
+    "Demand is perfectly elastic with price changes"
+  ],
+  "correctAnswer": 0,
+  "explanation": "A Giffen good is a special type of inferior good where demand increases as the price increases. This happens because the income effect outweighs the substitution effect. For example, if the price of bread rises, poor consumers may buy more bread because they can no longer afford more expensive foods, thus increasing demand for bread despite the price increase."
+},
+
+{
+  "question": "Which of the following is most likely to cause a shift in the demand curve for a product?",
+  "options": [
+    "A change in the price of the product",
+    "A change in the income of consumers",
+    "A change in the production technology",
+    "A change in the price of the product’s inputs"
+  ],
+  "correctAnswer": 1,
+  "explanation": "A change in consumer income is one of the key factors that can cause a shift in the demand curve. When income increases, people generally buy more of most goods, shifting the demand curve to the right. A change in the price of the product itself only causes a movement along the demand curve, not a shift."
+},
+{
+    "question": "In the demand function Qd = 10 + 4P, what is the quantity demanded when the price is 3?",
+    "options": [
+      "22",
+      "26",
+      "30",
+      "34"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The demand function Qd = 10 + 4P represents the relationship between the quantity demanded (Qd) and the price (P). To find the quantity demanded when the price is 3, substitute P = 3 into the equation: Qd = 10 + 4(3) = 10 + 12 = 22. Therefore, when the price is 3, the quantity demanded is 22. This demonstrates how changes in price (P) directly affect the quantity of a good demanded (Qd)."
+  },
+
+  {
+    "question": "Which of the following is true about the Giffen paradox?",
+    "options": [
+      "The demand for a Giffen good decreases as its price increases",
+      "The demand for a Giffen good increases as its price increases",
+      "The price elasticity of demand for a Giffen good is greater than 1",
+      "The demand curve for a Giffen good is upward sloping"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Giffen paradox refers to a situation where the demand for a good increases as its price increases, which is contrary to the usual law of demand. This typically occurs with inferior goods (goods people consume more of when they have less income). An example could be staple foods like bread or rice in extremely poor economies, where if the price increases, people can no longer afford more expensive alternatives and end up buying more of the cheaper, inferior good. Therefore, the demand for a Giffen good increases as its price rises, and its demand curve is upward sloping."
+  },
+
+  {
+    "question": "What does the demand function Qd = 20 - 5P imply about the relationship between price and quantity demanded?",
+    "options": [
+      "As price increases, quantity demanded decreases",
+      "As price increases, quantity demanded increases",
+      "Price and quantity demanded are independent",
+      "Price and quantity demanded are proportional"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The demand function Qd = 20 - 5P shows a negative relationship between price (P) and quantity demanded (Qd). As price increases (P increases), the quantity demanded (Qd) decreases. This is a typical demand curve where higher prices discourage consumers from buying as much of the good. For example, if the price of a product rises, consumers may buy fewer units of it, which aligns with the law of demand."
+  }
+
+  
+ 
+  ]
   }
 
   
