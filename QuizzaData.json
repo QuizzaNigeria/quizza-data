@@ -2996,6 +2996,247 @@
   
  
   ]
+  },
+   {
+    "class": "Year 7",
+    "subject": "Math",
+    "topic": "Development of Number Systems",
+    "examType": "QUIZZA",
+    "questions": [
+{
+        "question": "What is the primary reason ancient societies developed a number system?",
+        "options": [
+            "To entertain people",
+            "To measure, keep records, and trade",
+            "To create art",
+            "To create religious symbols"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ancient societies developed number systems primarily to measure, keep records, and facilitate trade."
+    },
+    {
+        "question": "What was one of the earliest methods of recording numbers?",
+        "options": [
+            "Using computers",
+            "Using tally marks on soft clay",
+            "Using smartphones",
+            "Using paper and ink"
+        ],
+        "correctAnswer": 1,
+        "explanation": "One of the earliest methods of recording numbers involved using tally marks on soft clay."
+    },
+    {
+        "question": "Which of these was NOT used in early number recording?",
+        "options": [
+            "Stones",
+            "Tally marks",
+            "Paper",
+            "Bones"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Paper was not used in early number recording; materials like stones, tally marks, and bones were used."
+    },
+    {
+        "question": "In Yoruba, how is the number 5 written?",
+        "options": [
+            "Èrin",
+            "Àrùn",
+            "Ẹfà",
+            "Ẹwá"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In Yoruba, the number 5 is written as 'Àrùn'."
+    },
+    {
+        "question": "Which number in Igbo corresponds to 10?",
+        "options": [
+            "Iri",
+            "Otu",
+            "Abụọ",
+            "Atọ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "In Igbo, the number 10 is called 'Iri'."
+    },
+    {
+        "question": "In Hausa, how is the number 7 written?",
+        "options": [
+            "Bakwai",
+            "Tara",
+            "Uku",
+            "Biyar"
+        ],
+        "correctAnswer": 0,
+        "explanation": "In Hausa, the number 7 is written as 'Bakwai'."
+    },
+    {
+        "question": "In Yoruba, what is the number 20?",
+        "options": [
+            "Ẹfà",
+            "Ogún",
+            "Mẹrìnlá",
+            "Mẹtàlá"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In Yoruba, the number 20 is written as 'Ogún'."
+    },
+    {
+        "question": "In Hausa, what is 15?",
+        "options": [
+            "Goma",
+            "Goma sha biyar",
+            "Ashirin",
+            "Goma sha hudu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In Hausa, 15 is 'Goma sha biyar'."
+    },
+    {
+        "question": "Which of these languages is spoken in Western Nigeria?",
+        "options": [
+            "Hausa",
+            "Yoruba",
+            "Igbo",
+            "Nupe"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yoruba is spoken in Western Nigeria."
+    },
+    {
+        "question": "How is the number 12 written in Igbo?",
+        "options": [
+            "Iri na abụọ",
+            "Iri na otu",
+            "Iri na itolu",
+            "Iri na asaa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "In Igbo, the number 12 is written as 'Iri na abụọ'."
+    },
+	{
+        "question": "In Hausa, how is 20 written?",
+        "options": [
+            "Ashirin",
+            "Goma sha daya",
+            "Goma sha bakwai",
+            "Goma sha hudu"
+        ],
+        "correctAnswer": 0,
+        "explanation": "In Hausa, the number 20 is written as 'Ashirin'."
+    },
+    {
+        "question": "What does 'Gó' mean in Nupe language?",
+        "options": [
+            "1",
+            "10",
+            "5",
+            "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Gó' in the Nupe language means 10."
+    },
+    {
+        "question": "In Yoruba, how do you say 13?",
+        "options": [
+            "Mẹrìnlá",
+            "Mẹrìndínlógún",
+            "Mẹtàlá",
+            "Mẹrìnkàndínlógún"
+        ],
+        "correctAnswer": 0,
+        "explanation": "In Yoruba, 13 is said as 'Mẹrìnlá'."
+    },
+    {
+        "question": "In Igbo, which number corresponds to 'Abụọ'?",
+        "options": [
+            "3",
+            "1",
+            "5",
+            "2"
+        ],
+        "correctAnswer": 3,
+        "explanation": "'Abụọ' in Igbo means 2."
+    },
+    {
+        "question": "How is the number 9 written in Yoruba?",
+        "options": [
+            "Ẹjọ",
+            "Ẹsán",
+            "Ẹfà",
+            "Èrin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In Yoruba, the number 9 is written as 'Ẹsán'."
+    },
+    {
+        "question": "In Hausa, how is 4 written?",
+        "options": [
+            "Hudu",
+            "Biyu",
+            "Goma",
+            "Bakwai"
+        ],
+        "correctAnswer": 0,
+        "explanation": "In Hausa, the number 4 is written as 'Hudu'."
+    },
+    {
+        "question": "Which of these is NOT used in both Yoruba and Igbo counting systems?",
+        "options": [
+            "Base 12",
+            "Tally marks",
+            "Addition of 10",
+            "Use of fingers"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Base 12 is not used in both Yoruba and Igbo counting systems."
+    },
+    {
+        "question": "In Yoruba, what is the number 15?",
+        "options": [
+            "Mẹrìndínlógún",
+            "Márùn-ún",
+            "Mẹrìnkàndínlógún",
+            "Mẹrìndínlógún"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In Yoruba, the number 15 is written as 'Márùn-ún'."
+    },
+    {
+        "question": "In Igbo, how is the number 5 written?",
+        "options": [
+            "Atọ",
+            "Iri",
+            "Ise",
+            "Iri na itolu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "In Igbo, the number 5 is written as 'Ise'."
+    },
+    {
+        "question": "Which of these is NOT a major Nigerian language?",
+        "options": [
+            "Yoruba",
+            "Igbo",
+            "Swahili",
+            "Hausa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Swahili is not a major Nigerian language. It is primarily spoken in East Africa."
+    },
+    {
+        "question": "How is the number 5 written in Hausa?",
+        "options": [
+            "Biyar",
+            "Biyu",
+            "Bakwai",
+            "Goma"
+        ],
+        "correctAnswer": 0,
+        "explanation": "In Hausa, the number 5 is written as 'Biyar'."
+    }
+  
+ 
+  ]
   }
 
   
