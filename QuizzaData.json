@@ -4022,7 +4022,71 @@
       "explanation": "A business alliance often involves two companies collaborating on a project, such as shared marketing, without merging or forming a new entity."
     }
   ]
+},
+	{
+  "class": "Year 11",
+  "subject": "Commerce",
+  "topic": "Business Associations and Structures",
+  "examType": "WAEC",
+  "questions": [
+    {
+      "question": "The coming together of people who engage in trade and industry in a particular area is?",
+      "options": [
+        "An employers association",
+        "A trade association",
+        "A chamber of commerce",
+        "A trade union"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A Chamber of Commerce is an organization that brings together people engaged in trade and industry in a specific area to advocate for their interests and support economic development."
+    },
+    {
+      "question": "The organisation of local and international trade fairs is the responsibility of?",
+      "options": [
+        "Trade associations",
+        "Labour unions",
+        "Chamber of commerce",
+        "Custom and excise authorities"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Nigeria, Chambers of Commerce, such as the Lagos Chamber of Commerce, are responsible for organizing trade fairs, both locally and internationally, to promote business growth and opportunities."
+    },
+    {
+      "question": "An association of businesses engaged in both trade and industry is a?",
+      "options": [
+        "Co-operative society",
+        "Trade union",
+        "Trust fund",
+        "Chamber of commerce"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A Chamber of Commerce, like the Nigerian Association of Chambers of Commerce, represents businesses involved in both trade and industry, providing advocacy and support for business interests."
+    },
+    {
+      "question": "One of the aims of a trade association is to",
+      "options": [
+        "Liaise with other trade associations in other countries",
+        "Organize trade fairs and exhibitions",
+        "Provide quality goods and services",
+        "Promote commercial activities in their business"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A key role of trade associations, like the Nigerian Manufacturers Association, is to organize trade fairs and exhibitions to showcase their industry, promote networking, and stimulate business activity."
+    },
+    {
+      "question": "Computer manufacturers in an area could form a type of",
+      "options": [
+        "Producer association",
+        "Thrift society",
+        "Chamber of commerce",
+        "Consumer association"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Computer manufacturers could form a producer association to collaborate on shared industry challenges, advocate for better policies, and improve manufacturing practices in the sector."
+    }
+  ]
 }
+
 
 
   
