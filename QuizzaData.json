@@ -4085,7 +4085,236 @@
       "explanation": "Computer manufacturers could form a producer association to collaborate on shared industry challenges, advocate for better policies, and improve manufacturing practices in the sector."
     }
   ]
+},
+	{
+  "class": "Year 11",
+  "subject": "Economics",
+  "topic": "Demand for Labour",
+  "examType": "QUIZZA",
+  "questions": [
+    {
+      "question": "The demand curve for labor shows the relationship between:",
+      "options": [
+        "Wage rate and labor supply",
+        "Wage rate and quantity of labor demanded",
+        "Quantity of labor supplied and price of goods",
+        "Wage rate and quantity of labor supplied"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The demand curve for labor shows the relationship between wage rates and the quantity of labor demanded."
+    },
+    {
+      "question": "A movement along the labor demand curve occurs when:",
+      "options": [
+        "The wage rate changes",
+        "The demand for the product changes",
+        "The number of firms changes",
+        "Productivity changes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A movement along the labor demand curve occurs when the wage rate changes, as it directly affects the quantity of labor demanded."
+    },
+    {
+      "question": "What happens when the wage rate increases, according to the law of demand?",
+      "options": [
+        "The quantity of labor demanded increases",
+        "The demand for labor decreases",
+        "The demand curve shifts to the right",
+        "The quantity of labor supplied decreases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "According to the law of demand, as wages increase, the quantity of labor demanded generally decreases."
+    },
+    {
+      "question": "Which of the following would cause a shift of the labor demand curve to the left?",
+      "options": [
+        "A rise in the price of the product being produced",
+        "An increase in productivity",
+        "A technological innovation that replaces workers",
+        "A fall in wages"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A technological innovation that replaces workers would shift the labor demand curve to the left as fewer workers are needed."
+    },
+    {
+      "question": "If productivity in an industry improves, what will likely happen to the demand for labor?",
+      "options": [
+        "It will shift to the left",
+        "It will shift to the right",
+        "It will remain unchanged",
+        "The quantity of labor demanded will decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Improved productivity increases efficiency, leading to a rightward shift in the labor demand curve, as more labor may be needed to handle higher output."
+    },
+    {
+      "question": "A rightward shift of the labor demand curve implies:",
+      "options": [
+        "A decrease in wages",
+        "An increase in labor demand at every wage level",
+        "A decrease in productivity",
+        "A decrease in the number of firms in the market"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rightward shift of the labor demand curve indicates an increase in labor demand at every wage level."
+    },
+    {
+      "question": "When wages decrease, what will likely happen in terms of labor demand?",
+      "options": [
+        "Movement up along the demand curve",
+        "Movement down along the demand curve",
+        "The labor demand curve shifts to the right",
+        "The labor demand curve shifts to the left"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A decrease in wages causes a movement down along the demand curve, increasing the quantity of labor demanded."
+    },
+    {
+      "question": "If the government imposes a minimum wage above the equilibrium level, what is the likely effect?",
+      "options": [
+        "It will increase the demand for labor",
+        "It will decrease the demand for labor",
+        "It will cause the labor supply curve to shift",
+        "It will not affect the labor market"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Imposing a minimum wage above the equilibrium level can lead to a decrease in demand for labor as firms may not be able to afford the higher wages."
+    },
+    {
+      "question": "Which factor does NOT directly cause a shift in the labor demand curve?",
+      "options": [
+        "Changes in technology",
+        "Changes in the price of the final product",
+        "Changes in the wage rate",
+        "Changes in the number of firms in the market"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Changes in the wage rate do not cause a shift in the labor demand curve, but rather a movement along it."
+    },
+    {
+      "question": "An increase in the demand for a good or service typically causes:",
+      "options": [
+        "A decrease in labor demand",
+        "An increase in labor demand",
+        "A decrease in wage rates",
+        "An increase in labor supply"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An increase in demand for a good or service typically leads to an increase in labor demand to meet the higher production needs."
+    },
+    {
+      "question": "If new technology allows firms to produce more with fewer workers, what happens to the demand for labor?",
+      "options": [
+        "The demand curve shifts to the left",
+        "The demand curve shifts to the right",
+        "The quantity of labor demanded increases",
+        "The demand for labor remains unchanged"
+      ],
+      "correctAnswer": 0,
+      "explanation": "New technology that increases production efficiency typically reduces the demand for labor, shifting the labor demand curve to the left."
+    },
+    {
+      "question": "A rise in wages in one industry will generally:",
+      "options": [
+        "Increase the demand for labor in that industry",
+        "Decrease the demand for labor in that industry",
+        "Shift the labor demand curve for the whole economy",
+        "Shift the labor supply curve"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rise in wages within an industry usually decreases the demand for labor in that industry due to higher labor costs."
+    },
+    {
+      "question": "Which of the following is most likely to decrease the demand for labor in a specific sector?",
+      "options": [
+        "A rise in the price of a complementary good",
+        "An increase in consumer income",
+        "A technological advancement that automates processes",
+        "An increase in the population of workers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Technological advancements that automate processes typically decrease the demand for labor in that sector by reducing the need for human workers."
+    },
+    {
+      "question": "When the government offers subsidies to employers for hiring workers, the labor demand curve:",
+      "options": [
+        "Shifts to the left",
+        "Shifts to the right",
+        "Becomes steeper",
+        "Remains unchanged"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subsidies to employers for hiring workers lower labor costs, encouraging firms to hire more workers, which shifts the labor demand curve to the right."
+    },
+    {
+      "question": "If there is a decrease in the number of firms in an industry, what happens to the demand for labor in that industry?",
+      "options": [
+        "The demand for labor increases",
+        "The demand for labor decreases",
+        "The supply of labor increases",
+        "The demand curve shifts to the right"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A decrease in the number of firms in an industry reduces the demand for labor, as fewer firms require fewer workers."
+    },
+    {
+      "question": "Which of the following causes the labor demand curve to shift rightward?",
+      "options": [
+        "A decrease in consumer income",
+        "A rise in the wage rate",
+        "An increase in consumer demand for products",
+        "A decrease in the price of capital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An increase in consumer demand for products typically leads to a higher demand for labor to produce more goods."
+    },
+    {
+      "question": "The demand for labor in an industry is primarily affected by:",
+      "options": [
+        "The wage rate and quantity of labor supplied",
+        "The wage rate and the cost of capital",
+        "The demand for the goods produced in that industry",
+        "The availability of labor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The demand for labor is primarily driven by the demand for the goods and services produced in that industry."
+    },
+    {
+      "question": "If an industry is affected by a sudden drop in demand for its product, what will happen to the demand for labor?",
+      "options": [
+        "Labor demand will increase",
+        "Labor demand will decrease",
+        "Labor demand will remain unchanged",
+        "The labor demand curve will shift right"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A drop in demand for the product leads to a reduction in labor demand as fewer workers are needed to produce less output."
+    },
+    {
+      "question": "What happens when the labor demand curve shifts to the left?",
+      "options": [
+        "The number of workers hired decreases at every wage level",
+        "The wage rate increases",
+        "The number of workers hired increases",
+        "The supply of labor increases"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A leftward shift of the labor demand curve means a decrease in labor demand, leading to fewer workers being hired at every wage level."
+    },
+    {
+      "question": "The elasticity of labor demand refers to:",
+      "options": [
+        "The response of the quantity of labor demanded to changes in wage rates",
+        "The response of the wage rate to changes in labor supply",
+        "The total amount of labor demanded at each wage level",
+        "The overall number of workers in the economy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The elasticity of labor demand measures how the quantity of labor demanded responds to changes in wage rates."
+    }
+  ]
 }
+
 
 
 
